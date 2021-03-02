@@ -1,6 +1,6 @@
 def primary():
   print()
-  pyton3 get-quotee.py
+  pyton3 get-quote.py
 
   f = open("quotes.txt")
   quotes = f.readlines()
