@@ -1,15 +1,15 @@
 def primary():
-  print()
   pyton3 get-quote.py
 
   f = open("quotes.txt")
   quotes = f.readlines()
   f.close()
 
-  print(quotes [0])
+  print(quotes [14])
 
-if __name__== "__main__":
-  primary()
+if __name__== "__main__"
++ main()
   git add get-quote.py
-  git commit -m "Renamed the primary function"
+  git commit -m "Random quote bot is working"
   git push
+  
