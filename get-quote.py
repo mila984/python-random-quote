@@ -1,5 +1,6 @@
 def main():
-  # print("Keep it logically awesome.")
+  print("Keep it logically awesome.")
+  pyton3 get-quote.py
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
