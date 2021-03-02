@@ -5,11 +5,9 @@ def primary():
   quotes = f.readlines()
   f.close()
 
-  print(quotes [14])
-
+  print(quotes [14,15,16])
 if __name__== "__main__"
 + main()
   git add get-quote.py
-  git commit -m "Random quote bot is working"
+  git commit -m "Random quote bot is changed"
   git push
-  
