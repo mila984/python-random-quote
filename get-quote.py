@@ -13,4 +13,7 @@ if __name__== "__main__":
   git add get-quote.py
   git commit -m "Renamed the primary function"
   git push
-  
+  git add get-quote.py
+  git commit -m "print (quotes[0])
+  git push
+ 
