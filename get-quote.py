@@ -1,6 +1,6 @@
 def primary():
   print()
-  pyton3 get-quote.py
+  pyton3 get-quotee.py
 
   f = open("quotes.txt")
   quotes = f.readlines()
@@ -13,7 +13,3 @@ if __name__== "__main__":
   git add get-quote.py
   git commit -m "Renamed the primary function"
   git push
-  git add get-quote.py
-  git commit -m "print (quotes[0])
-  git push
- 
